@@ -12,4 +12,4 @@ python setup.py install
 
 # example
 
-` resizeIcon <source_file> `
+` resizeIcon icon.png --type=icon `
